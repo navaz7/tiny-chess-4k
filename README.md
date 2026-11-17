@@ -15,3 +15,5 @@ python3 -P -s main.py
 ```
 
 It plays every game the env serves, then exits.
+
+Local practice result — Practice trial-0: Elo 1,654, 5 wins / 1 loss.
